@@ -23,7 +23,7 @@
 * 📝 [アメリカでの新卒ソフトウェアエンジニア就活〜基本情報〜](https://note.com/technologynote/n/nd107ae288312)
 * 📝 [マネージャーか、プレイヤーか。Backendエンジニアがメルカリ米国事業で“あえて”下した決断](https://mercan.mercari.com/articles/22711/)
 
-こちらで紹介したのは大学院に行って就職がほとんどですが、日本にもオフィスを構えている企業(Google, Indeed)、もしくはアメリカにもオフィスを構えている日本企業(Mercari, SmartNews)などで社内転籍をする方法があります。
+こちらで紹介したのは大学院に行って就職がほとんどですが、日本にもオフィスを構えている企業(Google, Indeed, etc)、もしくはアメリカにもオフィスを構えている日本企業(Mercari, SmartNews)などで社内転籍をする方法があります。
 
 ## フランス
 
@@ -37,18 +37,19 @@
 ## その他
 海外で働いてる日本人が発信しているサイト。
 
+* 🎧 [Rebuild.fm](https://rebuild.fm/)
+
+シリコンバレーで働いてるエンジニアが更新しているポッドキャスト。
+
 * 🎧 [PositivTea](https://positivitea-secrets.us/)
 
 > このPodcastでは、海外で奮闘する”きらりと輝く”Professionalな日本人女性に、表からは見えない苦労・挫折の経験や、それを乗り越え強く生きる秘訣を聞いていきたいと思います。
-
-* 🎧 [Rebuild.fm](https://rebuild.fm/)
-
-シリコンバレーで働いてる日本人エンジニアが更新しているポッドキャスト。
 
 * 🌐 [シティーズ](https://www.cityz.jp)
 
 > 外国に住んでみる？と思ったら在住者に聞こう
 
-* 🎥 [シリコンバレーから、エンジニア情報を届けます!](https://www.youtube.com/channel/UCsFIKrIsUThmaPOyJqZHucQ)
+* 🎧 [Today I Learned FM](https://anchor.fm/todayilearnedfm)
 
-このリポジトリ管理者が更新しているYouTubeチャンネル。LeetCodeの解説や模擬コーディングインタビュー、シリコンバレーにいたるまでの経緯などをアップしています。
+> シリコンバレー、ベイエリアで働くソフトウェアエンジニア達が、気になったIT界隈の技術トピックを、ゆるく紹介しながらトレンドを追いかけるポッドキャストです。
+
